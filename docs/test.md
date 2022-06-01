@@ -12,3 +12,6 @@ $$
   \sum_{k=0}^{\infty} \frac{(2k)!}{2^{2k}(k!)^2} \frac{1}{2k+1} =
   \prod_{k=1}^{\infty} \frac{4k^2}{4k^2 - 1} \tag{1.1}
 $$
+
+[link](./docs/test.md)  
+[link](./test.md)  
